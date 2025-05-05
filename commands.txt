@@ -1,0 +1,5 @@
+npm install -g @angular/cli
+
+ng new todo-app --minimal --inline-style --skip-tests
+
+ng serve --open
